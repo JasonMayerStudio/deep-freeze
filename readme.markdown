@@ -1,7 +1,7 @@
 # deep-freeze
 
 
-my version
+
 
 recursively `Object.freeze()` objects
 
